@@ -1,0 +1,14 @@
+{
+  "name": "ROCm GPU Monitor",
+  "description": "A simple and efficient GNOME Shell extension that displays your AMD GPU statistics directly in the top bar.",
+  "uuid": "rocm-gpu-monitor@VexroFR.github.com",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "https://github.com/VexroFR"
+}
